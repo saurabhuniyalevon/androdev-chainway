@@ -36,13 +36,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/phongbksneep/androdev-chainway",
-  "author": "Phongbksneep <phongbksneep@gmail.com> (https://github.com/phongbksneep/androdev-chainway)",
+  "repository": "https://github.com/saurabhuniyalevon/androdev-chainway",
+  "author": "Saurabh <saurabh.uniyal@evontech.com> (https://github.com/saurabhuniyalevon/androdev-chainway)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phongbksneep/androdev-chainway/issues"
+    "url": "https://github.com/saurabhuniyalevon/androdev-chainway/issues"
   },
-  "homepage": "https://github.com/phongbksneep/androdev-chainway#readme",
+  "homepage": "https://github.com/saurabhuniyalevon/androdev-chainway#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
